@@ -1,82 +1,139 @@
 --------scott 2015 quotes:----------------------------------------------
-        -"a pointer is nothing more than a variable that holds a memory address."
-        --"Ever learn the I before E except after C rule?
+"a pointer is nothing more than a variable that holds a memory address."
+
+"Ever learn the I before E except after C rule?
                 That's the dumbest rule I've ever learned.
                 It works, except for every word I want to write."
-        ---"Embrace the suck."
-        -"If you are writing code that never seg faults, you aren't writing C code."
-        --"We let the machine figure out where the Hell you are."
-        ---"Of course I'm right."
-        -"It's really the java programmers. They leak memory like a siv."
-        --"Leave the managment to the machine."
-        ---"I would say 99.999999999 percent of the time, when you see char title[255] it is a string."
-        -"You have code that doesn't meet your expectations. Just like 113 students. Right?"
-        --"Crappy code. Great documentation. It's used. Great code. No documentation. It's not used."
-        ---"Kiss = keep it simple stupid."
-        -"Rtfm = Read the fine manual."
-        --"We all work with hang overs."
-        ---"When you think you are 90% done, you have 90% of the work left."
-        -"You better buy 11 fence posts. There is nothing worse than letting your cows out."
-        --"Code drunk. Debugg sober."
- ---"You have to be congnicient about what you are doing."
-        -"Leave the ellipses to the english majors."
-        --"Don't just open up a file and dump 2 gigabytes into it. You wont really play nice with other programs."
-        ---"You aren't programming a toaster But if you are then you can use this."
-        -"Can you live with losing 600 bytes of Memory? (3 seconds of silence) Yes."
-        --"There is always a trade off between space and time. Time being speed and space being efficiency."
-        ---"Typically you wouldn't want dangling pointers."
-        -"It's an Itunes killer app. It runs on the command line so it will kill itunes."
-        --"I can get away with code that you can't. So..."
-        ---"Maybe I want to add another record. Certainly nothing past 1978 for Bruce. He stopped after 1978. Forget The River."
-        -"Hey, we have no money. Okay, lets just stay home."
-        --"Biden came to Albuquerque. They closed the interstate. They don't close the interstate for me. Thats priority insertion."
-        ---"This is the gateway drug to computer science. Linked lists."
-        -"If you fail here, you are retaking the course. This is the whole point of teaching you C. "
-        --"Linked lists is the gateway. The gateway to the rest of the Cs department."
-        ---"If this fails, I bail."
----------OWEN "Look at those curves. *looks at linked lists drawing*"
-        --"You haven't been doing code. You have been PHD coders. Bunch of wonkers."
------------Tutor Alex "Hey girl are you a seg fault? cause I wanna trace your stack."
-        -"Record profits for Apple last quarter. Billions of dollars in cash that they hide overseas."
-        --"Java programmers don't give a sh*t about file systems do they? 'awww, We need files systems. Who cares right? we don't need them.'"
-        ---"Oh god? Did I hear someone say 'oh god' when I said you might need to draw a picture?"
-        -"*someone says Oh God* You called?"
-        --"It's like the big bang. what came before it? interesting questions. but we will leave that for another day."
-        ---"Here is the big bang of the linked lists problem. what came before my head pointer? nothing.."
-        -"Who waits more than 5 seconds for a page to load? *3 kids raise their hands* wow. You are patient."
-        --"Your code works 99% of the time. Its that damn %1 that takes up 99% of your time."
-        ---"it forces you to read? I wish I could force you guys to read. STACK OVERFLOOOOWWW! *fist pump*."
-        -"Except for that winey person at the end.*talking about tail of the linked lists*  It works pretty well. There is always that one in the crowd."
-        --"You can't disagree with me. stop right there. Just saying you agree with me is enough. I am open to complaints though so Go on."
-        ---"Me and pyhsics are like oil and water."
-        -"And god forbid you guys work on .XML. Its no fun."
-        --"I'm writing a matlab killer. Oh wait. Thats just called python..."
-        ---"One list to rule them all. Doubly linked circular lists."
-        -"we let the Os handle the details. Which is nice. There are a lot of details."
-        --"you know where mossad is? No? my middle easterners let me down once again."
- ---"Intel's code was leaking memory. Which you pay a lot of money for. Well, somebody pays a lot of money for it. They must of hired some UNM programmers."
-        -"Then you color the other ones black. So it looks like you are in the void. But thats just psychology. It has nothing to do with whats going on here."
-        --"Things start at zero. I wish mathmaticians would learn this."
-        ---"I hate writing HTML with a passion, to be honest with you."
-        -"Huh.. Someone left me a penny... A penny earned and penny saved."
-        --"Anoynomous... Bless their souls... Attacking Isis."
------owen---"If its alive....Kill it."
-        -"Do you want the real answer or the politically correct answer?."
-        --"I talked to a guy from intel from Oregon. He said when they hire people from New mexico, they look at tech first. And only tech."
-        ---"What do I consider important? pointers, pointers and more pointers. And strings which are a type of pointer.."
-        -"I wasted your first hour anyway, but I'm the teacher so I can do that. I would much rather talk about that stuff anyway."
+
+"Embrace the suck."
+
+"If you are writing code that never seg faults, you aren't writing C code."
+
+"we let the machine figure out where the Hell you are."
+
+"Of course I'm right."
+
+"It's really the java programmers. They leak memory like a siv."
+
+"Leave the managment to the machine."
+
+"I would say 99.999999999 percent of the time, when you see char title[255] it is a string."
+
+"You have code that doesn't meet your expectations. Just like 113 students. Right?"
+
+"Crappy code. Great documentation. It's used. Great code. No documentation. It's not used."
+
+"Kiss = keep it simple stupid."
+
+"Rtfm = Read the fine manual."
+
+"We all work with hang overs."
+
+"When you think you are 90% done, you have 90% of the work left."
+
+"You better buy 11 fence posts. There is nothing worse than letting your cows out."
+
+"Code drunk. Debugg sober."
+
+"You have to be congnicient about what you are doing."
+
+"Leave the ellipses to the english majors."
+
+"Don't just open up a file and dump 2 gigabytes into it. You wont really play nice with other programs."
+
+"You aren't programming a toaster But if you are then you can use this."
+
+"Can you live with losing 600 bytes of Memory? (3 seconds of silence) Yes."
+
+"There is always a trade off between space and time. Time being speed and space being efficiency."
+
+"Typically you wouldn't want dangling pointers."
+
+"It's an Itunes killer app. It runs on the command line so it will kill itunes."
+
+"I can get away with code that you can't. So..."
+
+"Maybe I want to add another record. Certainly nothing past 1978 for Bruce. He stopped after 1978. Forget The River."
+
+"Hey, we have no money. Okay, lets just stay home."
+
+"Biden came to Albuquerque. They closed the interstate. They don't close the interstate for me. Thats priority insertion."
+
+"This is the gateway drug to computer science. Linked lists."
+
+"If you fail here, you are retaking the course. This is the whole point of teaching you C. "
+
+"Linked lists is the gateway. The gateway to the rest of the Cs department."
+
+"If this fails, I bail."
+
+"You haven't been doing code. You have been PHD coders. Bunch of wonkers."
+
+"Record profits for Apple last quarter. Billions of dollars in cash that they hide overseas."
+
+"Java programmers don't give a sh*t about file systems do they? 'awww, We need files systems. Who cares right? we don't need them.'"
+
+"Oh god? Did I hear someone say 'oh god' when I said you might need to draw a picture?"
+
+"*someone says Oh God* You called?"
+
+"It's like the big bang. what came before it? interesting questions. but we will leave that for another day."
+
+"Here is the big bang of the linked lists problem. what came before my head pointer? nothing.."
+
+"Who waits more than 5 seconds for a page to load? *3 kids raise their hands* wow. You are patient."
+
+"Your code works 99% of the time. Its that damn %1 that takes up 99% of your time."
+
+"it forces you to read? I wish I could force you guys to read. STACK OVERFLOOOOWWW! *fist pump*."
+
+"Except for that winey person at the end.*talking about tail of the linked lists*  It works pretty well. There is always that one in the crowd."
+
+"You can't disagree with me. stop right there. Just saying you agree with me is enough. I am open to complaints though so Go on."
+
+"Me and pyhsics are like oil and water."
+
+"And god forbid you guys work on .XML. Its no fun."
+
+"I'm writing a matlab killer. Oh wait. Thats just called python..."
+
+"One list to rule them all. Doubly linked circular lists."
+
+"we let the Os handle the details. Which is nice. There are a lot of details."
+
+"you know where mossad is? No? my middle easterners let me down once again."
+
+"Intel's code was leaking memory. Which you pay a lot of money for. Well, somebody pays a lot of money for it. They must of hired some UNM programmers."
+
+"Then you color the other ones black. So it looks like you are in the void. But thats just psychology. It has nothing to do with whats going on here."
+
+"Things start at zero. I wish mathmaticians would learn this."
+
+"I hate writing HTML with a passion, to be honest with you."
+
+"Huh.. Someone left me a penny... A penny earned and penny saved."
+
+"Anoynomous... Bless their souls... Attacking Isis."
+
+"Do you want the real answer or the politically correct answer?."
+
+"I talked to a guy from intel from Oregon. He said when they hire people from New mexico, they look at tech first. And only tech."
+
+"What do I consider important? pointers, pointers and more pointers. And strings which are a type of pointer.."
+
+"I wasted your first hour anyway, but I'm the teacher so I can do that. I would much rather talk about that stuff anyway."
+
+
+
 --------Scott 2016 quotes------------------------------------------------------------------------------------------------------------------------
-	--"Who took 113 in here? Wow. I Passed all of you? I need to talk to my graders."
-        ---"I don't mind Arch. But if you want a Job *shrug*... Nobody uses arch in the Professional world."
-        -"Do I want to draw this discretly? Hell No. I don't want to draw a bunch of points. I'll just draw the line."
-        --"I just want to give you some intuition right now. Dont get confused when I say they are linear. They don't have slopes.(talking about Big O)"
-        ---"I can't give you everything today or you won't comeback tomorrow. Right? We will get there."
-	-"Ah. God. These computers. pff Its just adding two numbers. Whats taking so long?(while waiting for program to run)"
-	--"."
-	---"."
-	-"."
-	--"."     
-	---"."
-	-"."
-	--"."
-	---"."
+"Who took 113 in here? Wow. I Passed all of you? I need to talk to my graders."
+
+"I don't mind Arch. But if you want a Job *shrug*... Nobody uses arch in the Professional world."
+
+"Do I want to draw this discretly? Hell No. I don't want to draw a bunch of points. I'll just draw the line."
+
+"I just want to give you some intuition right now. Dont get confused when I say they are linear. They don't have slopes.(talking about Big O)"
+
+"I can't give you everything today or you won't comeback tomorrow. Right? We will get there."
+
+"Ah. God. These computers. pff Its just adding two numbers. Whats taking so long?(while waiting for program to run)"
