@@ -1,5 +1,5 @@
 --------scott 2015 quotes:----------------------------------------------        
-"a pointer is nothing more than a variable that holds a memory address."
+"A pointer is nothing more than a variable that holds a memory address."
         
 "Ever learn the I before E except after C rule?
                 That's the dumbest rule I've ever learned.
@@ -29,19 +29,19 @@
 
 "We all work with hang overs."
 
--"When you think you are 90% done, you have 90% of the work left."
+"When you think you are 90% done, you have 90% of the work left."
 
 "You better buy 11 fence posts. There is nothing worse than letting your cows out."
 
-"Code drunk. Debugg sober."
+"Code drunk. Debug sober."
 
-"You have to be congnicient about what you are doing."
+"You have to be congnizant about what you are doing."
 
 "Leave the ellipses to the english majors."
 
-"Don't just open up a file and dump 2 gigabytes into it. You wont really play nice with other programs."
+"Don't just open up a file and dump 2 gigabytes into it. You won't really play nice with other programs."
 
-"You aren't programming a toaster But if you are then you can use this."
+"You aren't programming a toaster... but if you are, then you can use this."
 
 "Can you live with losing 600 bytes of Memory? (3 seconds of silence) Yes."
 
@@ -57,13 +57,13 @@
 
 "Hey, we have no money. Okay, lets just stay home."
 
-"Biden came to Albuquerque. They closed the interstate. They don't close the interstate for me. Thats priority insertion."
+"Biden came to Albuquerque. They closed the interstate. They don't close the interstate for me. That's priority insertion."
 
 "This is the gateway drug to computer science. Linked lists."
 
 "If you fail here, you are retaking the course. This is the whole point of teaching you C. "
 
-"Linked lists is the gateway. The gateway to the rest of the Cs department."
+"Linked lists is the gateway. The gateway to the rest of the C.S. department."
 
 "If this fails, I bail."
 
@@ -75,33 +75,33 @@
 
 "Oh god? Did I hear someone say 'oh god' when I said you might need to draw a picture?"
 
-"*someone says Oh God* You called?"
+"*someone says Oh God again* You called?"
 
-"It's like the big bang. what came before it? interesting questions. but we will leave that for another day."
+"It's like the big bang. What came before it? Interesting questions, but we will leave that for another day."
 
-"Here is the big bang of the linked lists problem. what came before my head pointer? nothing.."
+"Here is the big bang of the linked lists problem. What came before my head pointer? Nothing.."
 
-"Who waits more than 5 seconds for a page to load? *3 kids raise their hands* wow. You are patient."
+"Who waits more than 5 seconds for a page to load? *3 kids raise their hands* Wow. You are patient."
 
-"Your code works 99% of the time. Its that damn %1 that takes up 99% of your time."
+"Your code works 99% of the time. It's that damn 1% that takes up 99% of your time."
 
-"it forces you to read? I wish I could force you guys to read. STACK OVERFLOOOOWWW! *fist pump*."
+"It forces you to read? I wish I could force you guys to read. STACK OVERFLOOOOWWW! *fist pump*."
 
-"Except for that winey person at the end.*talking about tail of the linked lists*  It works pretty well. There is always that one in the crowd."
+"Except for that whiney person at the end. *talking about tail of the linked lists*  It works pretty well. There is always that one in the crowd."
 
-"You can't disagree with me. stop right there. Just saying you agree with me is enough. I am open to complaints though so Go on."
+"You can't disagree with me. Stop right there. Just saying you agree with me is enough. I am open to complaints though so go on."
 
-"Me and pyhsics are like oil and water."
+"Me and physics are like oil and water."
 
 "And god forbid you guys work on .XML. Its no fun."
 
-"I'm writing a matlab killer. Oh wait. Thats just called python..."
+"I'm writing a Matlab killer. Oh wait. That's just called Python..."
 
 "One list to rule them all. Doubly linked circular lists."
 
-"we let the Os handle the details. Which is nice. There are a lot of details."
+"We let the OS handle the details. Which is nice. There are a lot of details."
 
-"you know where mossad is? No? my middle easterners let me down once again."
+"You know where Mossad is? No? My middle easterners let me down once again."
 
 "Intel's code was leaking memory. Which you pay a lot of money for. Well, somebody pays a lot of money for it. They must of hired some UNM programmers."
 
@@ -115,11 +115,11 @@
 
 "Anoynomous... Bless their souls... Attacking Isis."
 
-"Do you want the real answer or the politically correct answer?."
+"Do you want the real answer or the politically correct answer?"
 
-"I talked to a guy from intel from Oregon. He said when they hire people from New mexico, they look at tech first. And only tech."
+"I talked to a guy from Intel from Oregon. He said when they hire people from New Mexico, they look at Tech first. And only Tech."
 
-"What do I consider important? pointers, pointers and more pointers. And strings which are a type of pointer.."
+"What do I consider important? Pointers, pointers and more pointers. And strings, which are a type of pointer..."
 
 "I wasted your first hour anyway, but I'm the teacher so I can do that. I would much rather talk about that stuff anyway."
 
@@ -133,15 +133,15 @@
 
 "I don't mind Arch. But if you want a Job *shrug*... Nobody uses arch in the Professional world."
 
-"Do I want to draw this discretly? Hell No. I don't want to draw a bunch of points. I'll just draw the line."
+"Do I want to draw this discreetly? Hell No. I don't want to draw a bunch of points. I'll just draw the line."
 
-"I just want to give you some intuition right now. Dont get confused when I say they are linear. They don't have slopes.(talking about Big O)"
+"I just want to give you some intuition right now. Don't get confused when I say they are linear. They don't have slopes.(talking about Big O)"
 
 "I can't give you everything today or you won't comeback tomorrow. Right? We will get there."
 
-"Ah. God. These computers. pff Its just adding two numbers. Whats taking so long?(while waiting for program to run)"
+"Ah. God. These computers. Pff, Its just adding two numbers. Whats taking so long?(while waiting for program to run)"
 
-"Premature optimization is the root of all evil.(quoting Kunuth)"
+"Premature optimization is the root of all evil.(quoting Knuth)"
 
 "When in doubt, brute force works."
 
@@ -149,7 +149,7 @@
 
 "Profiled it and I don't even have a main in here. It happened so fast."
 
-"Nothing worse than having to flip your paper while grading. F!(pretending to grade a quiz) You thought we were fair. Its really about our mood."
+"Nothing worse than having to flip your paper while grading. F!(pretending to grade a quiz) You thought we were fair. It's really about our mood."
 
 "Do yourself a favor and when you write macros, use parenthesis. Other wise you get some weirdness with the substitution."
 
