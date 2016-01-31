@@ -1,11 +1,17 @@
-# scott_quotes
-Memorable Scott quotes. For all who enjoy Scott and the witty/snarky things he says on the daily. Keep this secret. Keep this safe.
+#Computer Science Department Quotes 2.0
 
-Hello Fellow Cs Zombies. 
+New and Improved. The purpose of this repository has changed! (Pretty cool right?) 
 
-Here is my collection of memorable Scott quotes. If you know Scott, then you will probably enjoy these. If you don't enjoy them or like Scott, then why are you even reading this? Be gone. T'way with you. 
+From Scott quotes, to department wide quotes. 
 
-Scott is by far one of my favorite professors. These are in no way ment to get him in trouble. 
+Any and all quotes are welcome(within reason)! Have a bunch of quotes from a professor? Start a file for that professor and update your quotes to it! Please keep in mind that this is not ment to get any professors in trouble when updating your quotes.
 
-Feel free to add your own Scott Quotes! 
-I plan on making a calender with Scott quotes. Be on the lookout in the Help room for it.
+P.S. please keep the quotes in a standard-ish format. So the eyeballs don't have to strain.
+
+"Quotes inside quotations are pretty nice. Pretty easy to read too."
+
+"Other quotes with spaces are also easier to read. Whoa."
+
+"I assume you get the point now right?....."
+
+Disclaimer: I won't be moderating this much. Just updates on class days.
