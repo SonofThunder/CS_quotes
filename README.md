@@ -2,7 +2,7 @@
 
 New and Improved. The purpose of this repository has changed! (Pretty cool right?) 
 
-From Scott quotes, to department wide quotes. 
+From S.C quotes, to department wide quotes. 
 
 Any and all quotes are welcome(within reason)! Have a bunch of quotes from a professor? Start a file for that professor and update your quotes to it! Please keep in mind that this is not ment to get any professors in trouble when updating your quotes.
 
