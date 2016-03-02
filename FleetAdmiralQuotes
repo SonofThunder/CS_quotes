@@ -43,7 +43,7 @@
 
 "You aren't programming a toaster... but if you are, then you can use this."
 
-"Can you live with losing 600 bytes of Memory? (3 seconds of silence) Yes."
+"Can you live with losing 600 bytes of Memory? *3 seconds of silence* Yes."
 
 "There is always a trade off between space and time. Time being speed and space being efficiency."
 
@@ -163,17 +163,17 @@
 
 "When in doubt, brute force works."
 
-"If you used memory address 100 and I used memory address 100 who would win? Obviously me."
+"If you used memory address 0x100 and I used memory address 0x100 who would win? Obviously me."
 
 "Profiled it and I don't even have a main in here. It happened so fast."
 
-"Nothing worse than having to flip your paper while grading. F!(pretending to grade a quiz) You thought we were fair. It's really about our mood."
+"Nothing worse than having to flip your paper while grading. F!*pretending to grade a quiz* You thought we were fair. It's really about our mood."
 
 "Do yourself a favor and when you write macros, use parenthesis. Other wise you get some weirdness with the substitution."
 
 "Just take this on blind faith. It's Newtons method."
 
-"One Function to rule them all(Talking about what we will learn)."
+"One Function to rule them all.*Talking about what we will learn*"
 
 "How do we know this works for the largest prime number found? 22 million digits, which I won't write out on the board."
 
@@ -226,17 +226,17 @@
 
 “Let’s be mathematicians for a second, they have all kinds of tricks.”
 
-“What the hell is this over here for? (as he moves desk back to middle of classroom)”
+“What the hell is this over here for? *as he moves desk back to middle of classroom*”
 
 “That’s the only thing I remember from Chem 1. Dimensional analysis and avacado’s number”
 
-“How many times does banweb update??(student answers never) haha”
+“How many times does banweb update??*student answers never* haha”
 
-“That’s all well and good, but (insert word of choice here) there’s gotta be a formula for this.”
+“That’s all well and good, but **** there’s gotta be a formula for this.”
 
 “I’d be happy, I’d be really happy; I’d be ECSTATIC if you write this”
 
-“How many different ways can you rearrange 6 diplomats, it’s just the order the diplomats is just to make it interesting for you.”
+“How many different ways can you rearrange 6 diplomats? The order the diplomats is just to make it interesting for you.”
 
 “Fortunately math people have worked on this problem.”
 
@@ -276,7 +276,7 @@
 
 “...and this for all you math wonkers. *adds ϵ ALL real to equation*”
 
-“My grandmother, till her dying day, remembered she had to go up to board to write things down a hundred times in berlin, in 1st grade.”
+“My grandmother, till her dying day, remembered she had to go up to the board to write things down a hundred times in berlin, in 1st grade.”
 
 “Talking is silver, action is golden.”
 
